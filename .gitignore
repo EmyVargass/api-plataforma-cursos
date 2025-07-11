@@ -1,0 +1,12 @@
+# Carpeta del entorno virtual
+venv/
+
+# Carpetas de caché de Python
+__pycache__/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de la base de datos de SQLite
+*.db
+*.db-journal
